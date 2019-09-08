@@ -6,3 +6,6 @@ File link is https://raw.githubusercontent.com/WidgetA/SSR_Whitelist_for_ShadowR
 
 ## 2019.8.30
 Add `github.com`
+
+## 2019.9.8
+Add `files.pythonhosted.org`
